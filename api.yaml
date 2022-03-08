@@ -1,0 +1,13 @@
+openapi: 3.0.3
+info:
+  title: Minimal Spec
+  version: 1.0.0
+servers:
+  - url: http://localhost:8080/
+paths:
+  /buggy-request:
+    post:
+      operationId: buggyRequest
+      responses:
+        "200":
+          description: OK
