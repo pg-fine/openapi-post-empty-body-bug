@@ -11,3 +11,8 @@ or
 ```
 ./gradle test
 ```
+
+
+
+## UPDATE
+__The bug is resolved in OpenApi Version 6.2.0__
